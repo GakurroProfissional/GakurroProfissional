@@ -4,4 +4,4 @@
 - 🌱 Estou atualmente me capacitando em JavaScript Python HTML CSS SQL NEXT REACT e Bootstrap 
 - Como experiência, trabalhei apenas uma vez como estagiário no BRB
 - Todas as minhas criações para aprendizado colocarei aqui para demonstrar minhas capacidades e limitações.
-- 
+
